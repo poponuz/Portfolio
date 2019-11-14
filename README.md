@@ -1,5 +1,4 @@
 # Portfolio
-For InfinBank Innovative Technologies Department
 
 Example [Resume](https://poponuz.github.io/rsschool-cv/) in HTML/CSS 
 
